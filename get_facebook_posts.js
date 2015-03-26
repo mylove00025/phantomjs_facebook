@@ -269,6 +269,7 @@ interval3 = setInterval(function() {
 			"data" : posts
 		};
 		fs.write("C:/phantomjs-2.0.0/examples/career_score/timeline.json", JSON.stringify(timeline), 'w');
+		console.log("************* Ended to crawl timeline facebookId = " + facebookId + " **************\n");
         phantom.exit();
     }
 }, 3000);
