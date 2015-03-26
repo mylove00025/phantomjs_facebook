@@ -1,0 +1,16 @@
+{
+    "users": {
+        "user1": {
+            "username":"[Facebook User Name]",
+            "password":"[Facebook Pass Word]"
+        },
+        "user2": {
+            "username":"",
+            "password":""
+        },
+        "user3": {
+            "username":"",
+            "password":""
+        }
+    }
+}
